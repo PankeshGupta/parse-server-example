@@ -25,6 +25,10 @@
       "description": "Configure file key",
       "value": "myFileKey"
     },
+    "CLIENT_KEY": {
+      "description": "Configure client key",
+      "value": "myClientKey"
+    },
     "REST_API_KEY": {
       "description": "Configure REST API key.",
       "value": "myRestApiKey"
