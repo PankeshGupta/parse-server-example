@@ -20,6 +20,18 @@
     "SERVER_URL": {
       "description": "URL to connect to your Heroku instance (update with your app's name + PARSE_MOUNT)",
       "value": "http://yourappname.herokuapp.com/parse"
+    },
+    "FILE_KEY": {
+      "description": "Configure file key",
+      "value": "myFileKey"
+    },
+    "REST_API_KEY": {
+      "description": "Configure REST API key.",
+      "value": "myRestApiKey"
+    },
+    "JAVASCRIPT_KEY": {
+      "description": "Configure JAVA SCRTIPT key",
+      "value": "myJavaScriptKey"
     }
   },
   "image": "heroku/nodejs",
